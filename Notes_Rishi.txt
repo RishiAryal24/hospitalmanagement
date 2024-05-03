@@ -1,0 +1,3 @@
+The mockups models are running fine but could not be registered in the database. Should create a database schema.. 
+The schema is already in the database table but was not migrated during execution. It looks like there is no 
+authentication in setting for the database username and passowd. 
